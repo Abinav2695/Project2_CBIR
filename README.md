@@ -19,11 +19,11 @@ sudo apt install cmake gcc g++
 * Clone this workspace
 ```bash
 cd [$Your_Destination_Folder]
-git clone https://github.com/Abinav2695/Pattern_Recognition_CV.git
+git clone https://github.com/Abinav2695/Project2_CBIR.git
 ```
 * Build workspace
 ```bash
-cd Patter_Recognition_CV/Real_Time_Filtering
+cd Project2_CBIR/
 mkdir build
 cd build
 cmake -S .. -B .
